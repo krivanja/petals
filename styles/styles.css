@@ -10,6 +10,7 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 width: 100%;
+border-radius: 10px;
 }
 
 footer {
@@ -93,7 +94,7 @@ color: skyblue;
 }
 
 nav ul {
-background-color: tomato;
+background-color: navy;
 border-style: solid;
 border-color: MediumVioletRed;
 border-width: 2px;
@@ -106,13 +107,14 @@ list-style-type: none;
 display: inline;
 margin-right: 20px;
 margin-left: 20px;
-color: PapayaWhip;
+color: orange;
 font-size: x-large;
-font-weight: bold;
+font-weight: bolder;
 }
+
 nav ul li a {
 text-decoration: none;
-color: indigo;
+color: white;
 }
 
 .blockly {
