@@ -136,3 +136,7 @@ font-size: large;
 .first_col {
 text-align: left;
 }
+
+* {
+text-decoration: none;
+}
