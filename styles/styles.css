@@ -21,6 +21,7 @@ text-align: center;
 color: white;
 font-family: 'Roboto', sans-serif;
 line-height: 1.6;
+text-decoration: none;
 }
 
 h1 {
@@ -53,18 +54,6 @@ font-size: 24px;
 
 }
 
-button {
-color: black;
-
-}
-
-section iframe {
-width: 100%;
-height: 600px;
-border: none;
-
-}
-
 .attribution p {
 text-align: center;
 }
@@ -89,6 +78,7 @@ border-radius: 10px;
 
 .map {
 padding-top: 50px;
+text-align: center;
 }
 
 strong {
@@ -139,6 +129,20 @@ font-size: large;
 text-align: left;
 }
 
-* {
-text-decoration: none;
+.social {
+text-align: center;
+}
+
+.gallery {
+width: 60%;
+margin: auto;
+font-size: large;
+}
+
+.gallery summary{
+font-size: x-large;
+}
+
+.gallery details{
+padding-top: 25px;
 }
